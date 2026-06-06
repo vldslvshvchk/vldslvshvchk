@@ -9,29 +9,79 @@ Linux Enthusiast
 Homelab Operator
 ```
 
-## 🛠 Stack
+> Building, breaking and rebuilding infrastructure.
 
-- Debian
-- Ubuntu
-- Windows
-- Docker
-- Portainer
-- Proxmox
-- TrueNAS
-- WireGuard
-- Traefik
-- Bash
-- PowerShell
+---
+
+## ⚡ Tech Stack
+
+### Operating Systems
+
+* Debian
+* Ubuntu
+* Windows 10 / 11
+
+### Infrastructure & Virtualization
+
+* Proxmox VE
+* Docker
+* Portainer
+* TrueNAS
+
+### Networking
+
+* WireGuard
+* Traefik
+* TCP/IP
+* DNS
+
+### Automation
+
+* Bash
+* PowerShell
+
+---
 
 ## 🚀 Current Focus
 
-- Self-hosted services
-- Infrastructure automation
-- Containerization
-- Homelab development
+* Self-hosted services
+* Containerization
+* Infrastructure automation
+* Homelab development
+* Linux administration
 
-## 📊 GitHub Stats
+---
 
-![Stats](https://github-readme-stats.vercel.app/api?username=vldslvshvchk&show_icons=true&theme=tokyonight)
+## 🖥️ Homelab
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vldslvshvchk&layout=compact&theme=tokyonight)
+```text
+[ Internet ]
+      │
+[ Keenetic Router ]
+      │
+[ WireGuard VPN ]
+      │
+[ Proxmox ]
+ ├─ Docker
+ ├─ Traefik
+ ├─ TrueNAS
+ └─ Self-hosted Services
+```
+
+---
+
+## 📚 Currently Learning
+
+* Advanced Docker networking
+* Infrastructure as Code
+* Linux server administration
+* Monitoring & observability
+
+---
+
+## ☕ Philosophy
+
+> If a task needs to be done more than twice, it should probably be automated.
+
+```
+```
