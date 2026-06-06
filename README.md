@@ -82,6 +82,3 @@ Homelab Operator
 ## ☕ Philosophy
 
 > If a task needs to be done more than twice, it should probably be automated.
-
-```
-```
